@@ -1,4 +1,4 @@
-ProjectSettings/*
+ProjectSettings/*.asset
 Assets/Substances/.autosave/*
 
 .collabignore
